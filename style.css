@@ -17,4 +17,5 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: var(--pale-blue);
+    font-family: "Red Hat Display", sans-serif;
 }

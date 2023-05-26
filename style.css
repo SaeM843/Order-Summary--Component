@@ -75,5 +75,6 @@ main {
 
 .plan-left {
     display: flex;
+    gap: 1rem;
 }
 

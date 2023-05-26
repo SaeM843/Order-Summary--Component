@@ -45,5 +45,19 @@ main {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
+}
+
+/* summary section */
+
+.summary {
+    text-align: center;
+}
+
+.summary > h1 {
+    color: var(--dark-blue);
+}
+
+.summary > p{
+    color: var(--desaturated-blue);
+    margin: 1rem 1rem 1rem 1rem;
 }

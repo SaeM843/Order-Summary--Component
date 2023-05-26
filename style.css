@@ -93,6 +93,14 @@ main {
 .btn-section {
     width: 100%;
 }
+
+.proceed-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .payment {
     width: 100%;
     border: none;

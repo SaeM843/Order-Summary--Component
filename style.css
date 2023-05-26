@@ -28,7 +28,6 @@ body {
 main {
     width: 450px;
     background-color: white;
-    padding: 0 2rem 2rem 2rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -38,4 +37,13 @@ main {
 
 .hero-img {
     border-radius: 1rem 1rem 0 0;
+}
+
+.order-card {
+    padding: 2rem 2rem 2rem 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
 }

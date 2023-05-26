@@ -87,3 +87,16 @@ main {
 .plan-right > a {
     font-weight: 700;
 }
+
+/* button */
+
+.btn-section {
+    width: 100%;
+}
+.payment {
+    width: 100%;
+    border: none;
+    background-color: var(--bright-blue);
+    color: white;
+
+}

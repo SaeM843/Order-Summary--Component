@@ -70,6 +70,7 @@ main {
     align-items: center;
     background-color: var(--very-pale-blue);
     padding: 1rem;
+    border-radius: 0.8rem;
 }
 
 .plan-left {

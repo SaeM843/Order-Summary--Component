@@ -53,7 +53,7 @@ main {
     text-align: center;
 }
 
-.summary > h1 {
+.summary > h1, .plan-text > h3 {
     color: var(--dark-blue);
 }
 
@@ -78,3 +78,6 @@ main {
     gap: 1rem;
 }
 
+.plan-text > p {
+    color: var(--desaturated-blue);
+}

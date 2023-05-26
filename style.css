@@ -68,6 +68,8 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: var(--very-pale-blue);
+    padding: 1rem;
 }
 
 .plan-left {

@@ -18,6 +18,7 @@ body {
     background-image: url("./images/pattern-background-desktop.svg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-size: contain;
     background-color: var(--pale-blue);
     font-family: "Red Hat Display", sans-serif;
     min-height: 100vh;
@@ -137,3 +138,5 @@ a, button {
 .proceed-section > a:hover {
     color: var(--dark-blue);
 }
+
+

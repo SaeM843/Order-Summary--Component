@@ -139,4 +139,11 @@ a, button {
     color: var(--dark-blue);
 }
 
+/* media query  */
+
+@media screen and (max-width: 700px) {
+    body {
+        background-image: url("./images/pattern-background-mobile.svg");
+    }
+}
 

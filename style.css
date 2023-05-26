@@ -117,5 +117,23 @@ main {
     text-decoration: none;
     font-weight: 900;
     font-size: 0.9rem;
-    color: var(--desaturated-blue);
+    color: rgb(104, 88, 220);
+}
+
+/* active state */
+a, button {
+    cursor: pointer;
+}
+
+.plan-right > a:hover {
+    color: rgb(104, 88, 220);
+    text-decoration: none;
+}
+
+.payment:hover {
+    background-color: rgb(104, 88, 220);
+}
+
+.proceed-section > a:hover {
+    color: var(--dark-blue);
 }

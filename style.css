@@ -56,8 +56,11 @@ main {
     text-align: center;
 }
 
-.summary > h1, .plan-text > h3 {
+.summary > h1, .plan-text > h2 {
     color: var(--dark-blue);
+    font-size: 1rem;
+    font-weight: 900;
+    margin-bottom: 0.3rem;
 }
 
 .summary > p{

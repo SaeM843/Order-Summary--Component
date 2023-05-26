@@ -106,5 +106,9 @@ main {
     border: none;
     background-color: var(--bright-blue);
     color: white;
-
+    padding: 1rem 0;
+    border-radius: 1rem;
+    font-weight: 900;
+    margin: 1.5rem 0;
+    box-shadow: 0 1rem 10px var(--pale-blue);
 }
